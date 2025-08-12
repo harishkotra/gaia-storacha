@@ -2,6 +2,13 @@
 
 A simple web application that showcases the integration between **Gaia AI nodes** (OpenAI-compatible API) and **Storacha** (decentralized storage network).
 
+<img width="1109" height="295" alt="storacha-1" src="https://github.com/user-attachments/assets/a6ac3603-55a9-4ce6-9a60-9b9940e5b58e" />
+<img width="1416" height="1159" alt="storacha-2" src="https://github.com/user-attachments/assets/f68676ee-948c-4329-a1de-375eaab03c3c" />
+<img width="1416" height="1159" alt="storacha-3" src="https://github.com/user-attachments/assets/82c29e9e-a616-4c26-adcc-a863bb477784" />
+<img width="1419" height="1162" alt="storacha-4" src="https://github.com/user-attachments/assets/07ede16a-7ec2-4cfc-8ee1-88ba013ac2cc" />
+<img width="1418" height="1161" alt="storacha-5" src="https://github.com/user-attachments/assets/8d46493f-a7cc-42dc-98e7-40ebe6bc92d6" />
+
+
 ## Features
 
 - 💬 **AI Chat Interface**: Chat with AI powered by Gaia nodes using OpenAI SDK
